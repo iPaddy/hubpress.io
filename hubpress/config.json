@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "iPaddy",
-    "repositoryName": "mySite",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"iPaddy","repositoryName":"mySite","branch":"gh-pages"},"site":{"title":"OpenLetters","url":"http://iPaddy.github.io/mySite"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://iPaddy.github.io/mySite/themes/Casper"}}
